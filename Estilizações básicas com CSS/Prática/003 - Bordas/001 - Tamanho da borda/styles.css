@@ -1,0 +1,11 @@
+body {
+   font-family: Roboto, sans-serif;
+}
+
+.exemplo {
+   background-color: palevioletred;
+   width: 200px;
+   height: 200px;
+   border-style: outset; /* none, dashed, dotted, double, groove, ridge, inset, outset */
+   border-width: 10px;
+}

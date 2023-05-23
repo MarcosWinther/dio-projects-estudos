@@ -1,0 +1,30 @@
+body {
+   height: 200vh;
+}
+
+div {
+   margin-bottom: 30px;
+}
+
+div > p {
+   color: white;
+}
+
+.exemplo {
+   width: 300px;
+   height: 300px;
+   border: 15px dashed palegreen;
+   color: blue;
+   padding: 30px;
+   font-size: 40px;
+   font-weight: 900;
+   background: 
+      url('../img/other-planet-wallpaper-preview.jpg') /* image */
+      top center 300px /* position */ /* size*/
+      no-repeat /* repeat */
+      fixed /* Attachment */
+      padding-box /* origin */
+      content-box /* clip */
+      red /* color */;
+}
+

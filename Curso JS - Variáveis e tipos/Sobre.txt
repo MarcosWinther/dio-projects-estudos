@@ -1,0 +1,2 @@
+Códigos feitos no curso JS - Váriáveis e tipos.
+Curso que foi ministrada pela professora Stephany Nusch.

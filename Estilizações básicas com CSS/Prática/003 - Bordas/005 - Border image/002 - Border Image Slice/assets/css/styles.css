@@ -1,0 +1,22 @@
+body {
+   font-family: Roboto, sans-serif;
+}
+
+.exemplo {
+   margin-bottom: 20px;
+   background-color: black;
+   width: 200px;
+   height: 200px;
+   border: 40px solid;
+}
+
+#exemplo-1 {
+   border-image-source: url(../img/Estrelas\ Efeito\ 3D\ PNG\ Transparente\ Sem\ Fundo.png);
+   border-image-repeat: repeat;
+   border-image-slice: fill;
+}
+
+#exemplo-2 {
+   border-image-source: linear-gradient(red, purple);
+   border-image-slice: 10;
+}

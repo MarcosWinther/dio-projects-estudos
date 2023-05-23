@@ -1,0 +1,6 @@
+Métodos importantes - Strings:
+- Concatenação
+- Propriedade length
+- Iterabilidade
+- Formatação
+- Index das letras

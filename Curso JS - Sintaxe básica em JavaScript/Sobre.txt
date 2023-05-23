@@ -1,0 +1,2 @@
+Códigos feitos no curso JS - Sintaxe básica.
+Curso que foi ministrada pela professora Diane Martine.
